@@ -1,6 +1,11 @@
 # Rangefinder Gun Embedded
 
 This project involves creating a 3D-printed rangefinder gun that uses an ultrasonic sensor to measure distance. The system is powered by an ESP32-S3-WROOM microcontroller, with the measured distance displayed on a 16x2 I2C LCD. For simplicity, some parts of the build are attached using tape.
+![IMG_4550](https://github.com/user-attachments/assets/a150c2e5-4c18-4e4a-afe1-61c3daca153c)
+
+
+https://github.com/user-attachments/assets/23f3dedc-fff2-48ea-b192-f5ca8df3e7b1
+
 
 ## Features
 - **Ultrasonic Distance Measurement**: Measures the distance to an object using an ultrasonic range finder.
